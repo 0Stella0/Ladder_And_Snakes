@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UP_Practicum_DomashnaRabota1", "UP_Practicum_DomashnaRabota1\UP_Practicum_DomashnaRabota1.vcxproj", "{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Debug|x64.ActiveCfg = Debug|x64
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Debug|x64.Build.0 = Debug|x64
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Debug|x86.Build.0 = Debug|Win32
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Release|x64.ActiveCfg = Release|x64
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Release|x64.Build.0 = Release|x64
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Release|x86.ActiveCfg = Release|Win32
+		{8F0E6CCA-9359-4FD4-AEA2-6657B75F210E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B7F43B-6463-40D0-AD3C-A1AF0190F4CA}
+	EndGlobalSection
+EndGlobal
